@@ -45,3 +45,14 @@ Raw CSV → Bronze (Delta) → Silver (Delta) → Gold (Delta) → Streamlit Das
 ## Dataset
 UCI E-Commerce Dataset from Kaggle
 500K+ transactions from UK retail company (2010-2011)
+
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/7211d8ec-0167-4df7-9c81-a14fa44b6d1c" />
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/069cc59e-48d8-4113-8464-e1a081dfcd47" />
+<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9c5cf75a-4361-4fe5-b4d6-8bfa63d5cdc2" />
+<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/6bd6d0e6-d99f-4d82-adac-916bf0088e9c" />
+<img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/442ba760-abfd-41a8-a724-c98cb73e44d1" />
+
+
+
+
+
