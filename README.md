@@ -52,6 +52,9 @@ UCI E-Commerce Dataset from Kaggle
 <img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/6bd6d0e6-d99f-4d82-adac-916bf0088e9c" />
 <img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/442ba760-abfd-41a8-a724-c98cb73e44d1" />
 
+<img width="1408" height="768" alt="image_ce3e4e6a" src="https://github.com/user-attachments/assets/e888fa1b-3f17-47ca-9e5f-785508bcf1da" />
+
+
 
 
 
